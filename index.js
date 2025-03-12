@@ -20,4 +20,3 @@ function writeCards(names, event) {
   }
   
   // Export the function for testing
-  module.exports = countDown;
